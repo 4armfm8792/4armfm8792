@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @4armfm8792
-- 👀 I’m interested in project managment and internet privacy/security
+- 👀 I’m interested in farm and project managment, and internet privacy/security
 - 🌱 I’m currently learning floss privacy and security technology
 - 💞️ I’m looking to collaborate eventually, but for now I am a student
 - 📫 How to reach me ...
